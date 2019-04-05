@@ -1,0 +1,3 @@
+Run Application on Android Studio
+Will need an Android phone or simulator to run
+Wifi will also be needed  
